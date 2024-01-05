@@ -1,0 +1,19 @@
+Install Homebrew 
+
+- Install Telnet using Homebrew by running the following command in the Terminal:
+
+
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" brew install telnet
+
+
+- Once the installation is complete, you can run the infamous "telnet towel" command as usual:
+
+
+telnet towel.blinkenlights.nl
+
+
+
+- This will allow you to watch Star Wars Episode IV in ASCII art in the Terminal
+
+
+******Please note that Telnet was removed from macOS with Catalina, so using Homebrew is the recommended method for installing it on newer versions of macOS********
